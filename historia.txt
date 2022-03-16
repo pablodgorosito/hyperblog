@@ -3,3 +3,5 @@ Esta es mi historia.
 Tengo 43 años, soy Ingeniero Industrial.
 
 Y quiero aprender Ciencia de Datos.
+
+Y tambien los fundamentos de programacion para ser integral
